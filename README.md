@@ -1,16 +1,4 @@
 # routemanagement
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi Untuk MoneyTracker ![Screenshot_1727324181](https://github.com/user-attachments/assets/dfea7bdc-875e-47d5-a165-73b8b4fd087c)
+![Screenshot_1727324197](https://github.com/user-attachments/assets/7f5b9859-8290-41a4-9881-8559525d7aba)
